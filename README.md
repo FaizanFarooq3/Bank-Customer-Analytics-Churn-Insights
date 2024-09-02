@@ -1,6 +1,6 @@
 # Bank Customer Analytics and Churn Insights
 
-### Objective
+## Objective
 The objective of this project is to provide a comprehensive analysis of customer behavior and churn patterns for a fictional bank. By utilizing SQL for data manipulation and Power BI for visualization, the project aims to identify key factors influencing customer retention and provide actionable insights for reducing churn.
 
 ## Problem Statement
